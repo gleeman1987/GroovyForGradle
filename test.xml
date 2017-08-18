@@ -17,6 +17,10 @@
 <title>Don Xijote</title>
 <author id="4">Manuel De Cervantes</author>
 </book>
+<book available="3" id="5">
+<title>Journey to the West</title>
+<author id="5">Daniel Wu</author>
+</book>
 </books>
 </value>
 </response>
