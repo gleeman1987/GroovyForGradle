@@ -17,3 +17,11 @@ def printx(){
 	//可以访问上述test类的成员变量x
 }
 printx()
+
+
+//引用方法的方式
+void testMethod (var1) {
+	println "testMethod invoked,var1 = $var1"
+}
+testMethod("Fang Tangjing")
+testMethod var1:"Fang Tangjing",var2:"Bao Butong"
